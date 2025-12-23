@@ -1,0 +1,34 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.pdb
+*.cache
+*.log
+*.tmp
+*.vshost.*
+
+# NuGet packages (packages.config)
+packages/
+
+# Local DB files
+App_Data/*.mdf
+App_Data/*.ldf
+
+# Publish output
+Publish/
+Published/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
